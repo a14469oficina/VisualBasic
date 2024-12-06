@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ControlarForms", "ControlarForms\ControlarForms.vbproj", "{09405784-CE55-4EDF-923F-061B11CA2D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09405784-CE55-4EDF-923F-061B11CA2D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09405784-CE55-4EDF-923F-061B11CA2D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09405784-CE55-4EDF-923F-061B11CA2D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09405784-CE55-4EDF-923F-061B11CA2D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FD8D01-99E6-42E0-8EDC-ECC1873F4A0F}
+	EndGlobalSection
+EndGlobal

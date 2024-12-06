@@ -1,0 +1,14 @@
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\bin\Debug\ControlarForms.exe.config
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\bin\Debug\ControlarForms.exe
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\bin\Debug\ControlarForms.pdb
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\bin\Debug\ControlarForms.xml
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.vbproj.AssemblyReference.cache
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.Form1.resources
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.Resources.resources
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.vbproj.GenerateResource.cache
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.vbproj.CoreCompileInputs.cache
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.exe
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.xml
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.pdb
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.Form2.resources
+E:\14469_Filipe\VisualBasic\ControlarForms\ControlarForms\obj\Debug\ControlarForms.Form3.resources

@@ -1,0 +1,14 @@
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.exe.config
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.exe
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.pdb
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.xml
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.AssemblyReference.cache
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.Form1.resources
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.FormCalculador.resources
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.FormIMC.resources
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.Resources.resources
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.GenerateResource.cache
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.CoreCompileInputs.cache
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.exe
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.xml
+E:\14469_Filipe\VisualBasic\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.pdb
