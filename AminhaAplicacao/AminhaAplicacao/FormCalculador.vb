@@ -64,15 +64,39 @@
         insireNum(9)
     End Sub
 
-    Private Sub somar_Click(sender As Object, e As EventArgs) Handles botSomar.Click
-
-    End Sub
-
     Private Sub botInverterSinal_Click(sender As Object, e As EventArgs) Handles botInverterSinal.Click
 
     End Sub
 
     Private Sub botLimpar_Click(sender As Object, e As EventArgs) Handles botLimpar.Click
         TextFinal.Text = "0"
+        Textexpressao.Text = ""
+    End Sub
+
+    Private Sub botDivisao_Click(sender As Object, e As EventArgs) Handles botDivisao.Click
+        Textexpressao.Text = Textexpressao.Text & TextFinal.Text & " / "
+        TextFinal.Text = ""
+    End Sub
+    Private Sub somar_Click(sender As Object, e As EventArgs) Handles botSomar.Click
+        Textexpressao.Text = Textexpressao.Text & TextFinal.Text & " + "
+        TextFinal.Text = ""
+    End Sub
+
+    Private Sub botMultiplicar_Click(sender As Object, e As EventArgs) Handles botMultiplicar.Click
+        Textexpressao.Text = Textexpressao.Text & TextFinal.Text & " * "
+        TextFinal.Text = ""
+    End Sub
+
+    Private Sub botSubtrair_Click(sender As Object, e As EventArgs) Handles botSubtrair.Click
+        Textexpressao.Text = Textexpressao.Text & TextFinal.Text & " - "
+        TextFinal.Text = ""
+    End Sub
+
+    Private Sub botCalcular_Click(sender As Object, e As EventArgs) Handles botCalcular.Click
+
+    End Sub
+
+    Private Sub botApagar_Click(sender As Object, e As EventArgs) Handles botApagar.Click
+
     End Sub
 End Class
